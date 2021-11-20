@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@500;600;700&family=Rubik:wght@500;600&display=swap');
+
+body{
+    background-image: url(picture/pict8.png);
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu{
+    position: fixed;
+    height: 100%;
+    width: 300px;
+    background-color: rgb(67, 13, 110);
+    transition: .2s linear;
+    margin-left: -250px;
+  }
+  
+.menu:hover{
+    margin-left: 0px;
+    background-color: rgb(99, 18, 175);
+}
+
+.menutxt{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 115px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt:hover{
+    font-weight: 600;
+}
+
+.menutxt1{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 125px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt1:hover{
+    font-weight: 600;
+}
+
+.menutxt2{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 105px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt2:hover{
+    font-weight: 600;
+}
+
+.menutxt3{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 125px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt3:hover{
+    font-weight: 600;
+}
+
+.menutxt4{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 112px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt4:hover{
+    font-weight: 600;
+}
+
+.menutxt5{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 90px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt5:hover{
+    font-weight: 600;
+}
+
+.menutxt6{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 115px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt6:hover{
+    font-weight: 600;
+}
+
+.menutxt7{
+    width: 100px;
+    height: 100px;
+    color: black;
+    padding-left: 107px;
+    font-family: "Bebas Neue";
+    font-size: 500;
+}
+
+.menutxt7:hover{
+    font-weight: 600;
+}
+
+.ufavcrew{
+    text-align: center;
+    padding-top: 200px;
+    font-family: "Montserrat";
+    font-size: 600;
+}
+
+.gone{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 20px;
+}
+
+.gone1{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 50px;
+}
+
+.gone2{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 50px;
+}
+
+.gone3{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 50px;
+}
+
+.gone4{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 50px;
+}
+
+.gone5{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 50px;
+}
+
+.pictfludd{
+    width: 1000px;
+    margin-left: 320px;
+    border: 10px solid rgb(148, 17, 209);
+    border-radius: 30px;
+}
+
+.bio{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 980px;
+}
+
+.bio1{
+    color: whitesmoke;
+    font-family: 'Rubik';
+    font-size: 500;
+    float: right;
+    padding-left: 305px;
+    margin-right: 300px;
+    margin-left: 20px;
+}
+
+.bio2{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 900px;
+}
+
+.bio3{
+    color: whitesmoke;
+    font-family: 'Rubik';
+    font-size: 500;
+    float: right;
+    padding-left: 305px;
+    margin-right: 300px;
+    margin-left: 20px;
+}
+
+.bio4{
+    color: rgb(148, 17, 209);
+    font-family: "Montserrat";
+    font-size: 600;
+    float: right;
+    padding-right: 900px;
+}
+
+.bio5{
+    color: whitesmoke;
+    font-family: 'Rubik';
+    font-size: 500;
+    float: right;
+    padding-left: 305px;
+    margin-right: 300px;
+    margin-left: 20px;
+}
+
+.bio6{
+    color: whitesmoke;
+    font-family: 'Rubik';
+    font-size: 500;
+    float: right;
+    padding-left: 305px;
+    margin-right: 300px;
+    margin-left: 20px;
+}
+
+.finalll{
+    color: whitesmoke;
+    font-family: 'Montserrat';
+    font-size: 500;
+    float: right;
+    padding-top: 100px;
+    padding-right: 650px;
+}
